@@ -1,6 +1,8 @@
 firebase-login
 ==============
 
+[![Join the chat at https://gitter.im/vergissberlin/firebase-login](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vergissberlin/firebase-login?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Allows your node applications to authenticate a Firebase reference using your Firebase account credentials.
 
 *Note: This library is not related to Firebase's Simple Login email/password authentication. It allows you to log in with your Firebase account credentials, not a user's Simple Login email/password account.*
