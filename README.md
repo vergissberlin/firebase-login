@@ -29,3 +29,7 @@ Example
 Credits
 -------
 Development of this library is sponsored by [Rigidflame Consultants](http://www.rigidflame.com).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vergissberlin/firebase-login/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
